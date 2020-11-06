@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MONGO_USER":"junaid",
+        "MONGO_PASSWORD":"9kvSnpmmTIaCLPxM" ,
+        "MONGO_DATABASE":"messages"
+        
+
+    }
+}
